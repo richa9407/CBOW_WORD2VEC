@@ -173,7 +173,7 @@ def plot_with_labels(low_dim_embs, labels):
         ha='right',
         va='bottom')
 
-plot_with_labels(low_dim_embed, labels)
+plot_with_labels(low_dim_embed,labels)
 
 
 
